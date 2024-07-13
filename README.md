@@ -32,8 +32,8 @@ WallCraft aims to revolutionize Urban Company's wall panel offerings, providing 
 - Below are a few photos and a video demonstrating the final product:
 
 ### Photos
+![Image 1](./Results/img1.jpeg)
+![Image 2](./Results/img2.jpeg)
+![Image 3](./Results/img3.jpeg)
+![Image 4](./Results/img4.jpeg)
 
-
-
-### Video
-WallCraft Demonstration Video
